@@ -1,0 +1,9 @@
+# Ignore database files
+*.db
+*.sqlite
+*.sqlite3
+*.db-journal
+*.sql
+
+# Ignore macOS metadata files
+.DS_Store

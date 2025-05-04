@@ -1,0 +1,4 @@
+invoice_number,date,amount,description
+INV-1001,2025-05-01,199.99,Team dinner
+INV-1002,2025-05-02,49.50,Office supplies
+INV-1003,2025-05-03,15.00,Taxi fare

@@ -1,0 +1,3 @@
+invoice_number,date,amount,description
+INV-3001,2025-13-01,100.00,Invalid month in date
+INV-3002,2025-05-06,-50.00,Negative amount not allowed
