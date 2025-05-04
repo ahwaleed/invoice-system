@@ -7,3 +7,6 @@
 
 # Ignore macOS metadata files
 .DS_Store
+
+# venv
+venv

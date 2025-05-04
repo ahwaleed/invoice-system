@@ -1,0 +1,12 @@
+# --- Runtime ---
+fastapi==0.111.0
+uvicorn[standard]==0.29.0      # [standard] adds auto‑reload + logging extras
+SQLAlchemy==2.0.30
+aiosqlite==0.20.0              # async SQLite driver for SQLAlchemy 2.x
+pydantic==2.7.1
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4          # secure password hashing
+
+# --- Testing ---
+pytest==8.1.1
+httpx==0.27.0                  # async HTTP client for test suite
