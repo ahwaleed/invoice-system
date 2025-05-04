@@ -10,3 +10,6 @@
 
 # venv
 venv
+
+# Caches
+*.pyc
